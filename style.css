@@ -1,0 +1,50 @@
+html{
+    background-color: rgb(255, 249, 242);
+}
+
+#header-field{
+    background-color: #D9EDBF;
+    height: 100px;
+    position: relative;
+}
+
+#resume-pic{
+    height: 70px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+
+#header-name{
+    position: absolute;
+    width: 50%;
+    left: 25%;
+}
+#header-name h1{
+    text-align: center;
+}
+
+#links01{
+    position: absolute;
+    width: 50%;
+    left: 25%;
+    top: 70px;
+}
+#links01{
+    text-align: center;
+}
+
+#paragraph-intro{
+    width: 50%;
+    margin-left: 25%;
+}
+
+#barrier{
+    background-color: #FF9800;
+    height: 25px;
+}
+#footer-links{
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
