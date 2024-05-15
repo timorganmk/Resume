@@ -17,8 +17,7 @@ html{
 
 #header-name{
     position: absolute;
-    width: 50%;
-    left: 25%;
+    width: 100%;
 }
 #header-name h1{
     text-align: center;
@@ -26,9 +25,8 @@ html{
 
 #links01{
     position: absolute;
-    width: 50%;
-    left: 25%;
-    top: 70px;
+    width: 100%;
+    top: 75%;
 }
 #links01{
     text-align: center;
